@@ -127,15 +127,6 @@ elif choose =="8":
     else:
             print("\nInvalid Choice , Please Restart the Program!!")
 
-while True:
-           
-            restart = input("\nDo you want to try again? (yes/no): ")
-    
-            if restart.lower() == "yes":
-                continue
-            else:
-                print("\nTake care 😊")
-                break
 
 print("no mood is 'bad'🤗 - every mood is normal.\nthe key is understanding it and responding in a healthy way🗝️.")
 
